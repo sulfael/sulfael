@@ -27,7 +27,7 @@
 <br>
 
 <img align="center" alt="GIF" src="https://raw.githubusercontent.com/sulfael/sulfael/main/separador.gif" width="1000" height="2"/>
-<h3> 📊 Stats </h3>
+<h3> 📊 My stats </h3>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=sulfael&include_all_commits=true&count_private=true&show_icons=true&line_height=25&title_color=042772&icon_color=000&text_color=D3D3D3&bg_color=0,077ab4,014566" alt="sulfael's Github Stats">
 
 </br>
