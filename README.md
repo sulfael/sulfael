@@ -43,16 +43,16 @@
 
 <table border=".5">
   <tr>
-    <td style="text-align: center; vertical-align: middle;"><img src="https://cdn.icon-icons.com/icons2/3658/PNG/96/communication_social_media_linkedin_icon_228412.png" width="30"/></td>
-    <td style="vertical-align: middle;">  &nbsp; <a href="https://www.linkedin.com/in/jos%C3%A9-daniel-cachambe-219922211/" target="_blank" rel="noopener noreferrer">Linkedin</a></td>
+    <td><img src="https://cdn.icon-icons.com/icons2/3658/PNG/96/communication_social_media_linkedin_icon_228412.png" width="30"/></td>
+    <td>  &nbsp; <a href="https://www.linkedin.com/in/jos%C3%A9-daniel-cachambe-219922211/" target="_blank" rel="noopener noreferrer">Linkedin</a></td>
   </tr>
   <tr>
-    <td style="text-align: center; vertical-align: middle;"><img src="https://cdn.icon-icons.com/icons2/3658/PNG/96/media_social_instagram_icon_228428.png" width="30"/></td>
-    <td style="vertical-align: middle;">  &nbsp; <a href="https://www.instagram.com/sulfael/" target="_blank" rel="noopener noreferrer">Instagram</a></td>
+    <td><img src="https://cdn.icon-icons.com/icons2/3658/PNG/96/media_social_instagram_icon_228428.png" width="30"/></td>
+    <td>  &nbsp; <a href="https://www.instagram.com/sulfael/" target="_blank" rel="noopener noreferrer">Instagram</a></td>
   </tr>
   <tr>
-    <td style="text-align: center; vertical-align: middle;"><img src="https://cdn.icon-icons.com/icons2/3658/PNG/96/communication_letter_email_message_mail_google_icon_228423.png" width="30"/></td>
-    <td style="vertical-align: middle;">  &nbsp; <a href="mailto:jose.13.juy@gmail.com" target="_blank" rel="noopener noreferrer">Gmail</a></td>
+    <td><img src="https://cdn.icon-icons.com/icons2/3658/PNG/96/communication_letter_email_message_mail_google_icon_228423.png" width="30"/></td>
+    <td>  &nbsp; <a href="mailto:jose.13.juy@gmail.com" target="_blank" rel="noopener noreferrer">Gmail</a></td>
   </tr>
   <tr>
     <td><img src="https://cdn.icon-icons.com/icons2/3658/PNG/96/meta_fb_communication_social_media_katana_facebook_icon_228415.png" width="30"/></td>
