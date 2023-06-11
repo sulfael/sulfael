@@ -14,7 +14,7 @@
 - 😄 Pronouns: He/Him.
 - 💼 &nbsp; I work in private security, but in the future I hope to be a web developer.
 - 🤗 &nbsp; Watch anime or series, go for a walk, play mobile games and go to the movies as hobbies/secondary activities.
-- 😻 &nbsp; My favorite animal is cats, nothing better than a good company of them, I adore them too much
+- 😻 &nbsp; My favorite animal is cats, nothing better than a good company of them, I adore them too much.
 - 🥘 &nbsp; I don't like to cook, but when I do it for someone special I put all the care possible, because it is richer if it is done with love.
 
 <img align="center" alt="GIF" src="https://raw.githubusercontent.com/sulfael/sulfael/main/separador.gif" width="1000" height="2"/>
