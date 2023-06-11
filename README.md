@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1> Hello! I'm Sulfael. <img src="" width="25"></h1>
-<img align="right" alt="GIF" src= width="50"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/sulfael/lineagif/main/separador.gif"width="50"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
