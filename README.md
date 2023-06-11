@@ -36,7 +36,6 @@
 
 <img align="center" alt="GIF" src="https://raw.githubusercontent.com/sulfael/sulfael/main/separador.gif" width="1000" heigth="500"/>
 <h3> 🤝🏻 Connect with Me </h3>
-
 <table border="2px">
   <tr>
     <td><a href="https://www.linkedin.com/in/jos%C3%A9-daniel-cachambe-219922211/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.icon-icons.com/icons2/3658/PNG/96/communication_social_media_linkedin_icon_228412.png" width="30"/></td>
@@ -56,6 +55,5 @@
   </tr>
 </table>
 <img align="center" alt="GIF" src="https://raw.githubusercontent.com/sulfael/sulfael/main/separador.gif" width="1000" heigth="500"/>
-
 <p style align="center"> ⭐️ From <a  href="https://github.com/sulfael" target="_blank" rel="noopener noreferrer">Sulfael</a></p>
 
