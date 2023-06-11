@@ -53,6 +53,10 @@
     <td><img src="https://cdn.icon-icons.com/icons2/3658/PNG/96/meta_fb_communication_social_media_katana_facebook_icon_228415.png" width="30"/></td>
     <td>  &nbsp; <a href="https://www.facebook.com/sulfael" target="_blank" rel="noopener noreferrer">Facebook</a></td>
   </tr>
+  <tr>
+    <td><img src="https://cdn.icon-icons.com/icons2/1476/PNG/96/discord_101785.png" width="30"/></td>
+    <td>  &nbsp; <a href="https://discord.gg/sjxbYmG43w" target="_blank" rel="noopener noreferrer">Discord</a></td>
+  </tr>
 </table>
 <img align="center" alt="GIF" src="https://raw.githubusercontent.com/sulfael/sulfael/main/separador.gif" width="1000" height="2"/>
 <p style align="center"> ⭐️ From <a  href="https://github.com/sulfael" target="_blank" rel="noopener noreferrer">Sulfael</a></p>
