@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-<h1> Hello! I'm Sulfael. <img src="" width="25"></h1>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/sulfael/lineagif/main/separador.gif"width="50"/>
+<h1> Hello! I'm Sulfael. 👨🏻‍💻<img src="" width="25"></h1>
+<img align="center" alt="GIF" src="https://raw.githubusercontent.com/sulfael/sulfael/main/separador.gif" width="1000" heigth="500"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-<p><i>Hi, I'm Daniel, I was born on 19/SEP/1991, I live in the Autonomous City of Buenos Aires, right now I'm learning web development, I'm a beginner in the world of programming, right now I'm working in private security, it's a good job, but I aspire to much more, to dedicate myself to working on my own or to be able to work in a team environment for a company focused on web development, I also have computer skills, I usually repair PCs in terms of software, I am a responsible person who always seeks to do a good job, in this new path that I am taking I hope to be able to work and contribute in this community, as well as I am open to the help that they can provide, I hope in the future to be a complete web developer and to be able to create web pages as well as applications for people, thank you very much for reading.</i></p>
+<p><i>Hi, I'm Daniel Cachambe, alias Sulfael, I was born on 19/SEP/1991, I live in the Autonomous City of Buenos Aires, right now I'm learning web development, I'm a beginner in the world of programming, right now I'm working in private security, it's a good job, but I aspire to much more, to dedicate myself to working on my own or to be able to work in a team environment for a company focused on web development, I also have computer skills, I usually repair PCs in terms of software, I am a responsible person who always seeks to do a good job, in this new path that I am taking I hope to be able to work and contribute in this community, as well as I am open to the help that they can provide, I hope in the future to be a complete web developer and to be able to create web pages as well as applications for people, thank you very much for reading.</i></p>
 
 - 🌱&nbsp; I am currently learning web development.
 - 🤓 &nbsp; I seek to explore new technologies and develop software solutions.
@@ -16,22 +16,22 @@
 - 😻 &nbsp; My favorite animal is cats, nothing better than a good company of them, I adore them too much
 - 🥘 &nbsp; I don't like to cook, but when I do it for someone special I put all the care possible, because it is richer if it is done with love.
 
-<hr>
+<img align="center" alt="GIF" src="https://raw.githubusercontent.com/sulfael/sulfael/main/separador.gif" width="1000" heigth="500"/>
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Office Pack | Glide
 - 🌐 &nbsp; HTML | CSS | JavaScript
 - 📷 &nbsp; Picsart
 
-<br width="10">
-
+<br width="9">
+<img align="center" alt="GIF" src="https://raw.githubusercontent.com/sulfael/sulfael/main/separador.gif" width="1000" heigth="500"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=sulfael&include_all_commits=true&count_private=true&show_icons=true&line_height=25&title_color=042772&icon_color=000&text_color=D3D3D3&bg_color=0,077ab4,014566" alt="sulfael's Github Stats">
 
 </br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sulfael&layout=compact&text_color=daf7dc&bg_color=000)](https://github.com/sulfaelgithub-readme-stats)
 
-
+<img align="center" alt="GIF" src="https://raw.githubusercontent.com/sulfael/sulfael/main/separador.gif" width="1000" heigth="500"/>
 <h3> 🤝🏻 Connect with Me </h3>
 
 <table border="1">
@@ -52,7 +52,7 @@
     <td style="vertical-align: middle;">  &nbsp; <a href="https://twitter.com/_souvik_guria" target="_blank" rel="noopener noreferrer">Twitter</a></td>
   </tr>
 </table>
+<img align="center" alt="GIF" src="https://raw.githubusercontent.com/sulfael/sulfael/main/separador.gif" width="1000" heigth="500"/>
 
-
-⭐️ From [sulfael](https://github.com/sulfael)
+<p style align="center"> ⭐️ From <a  href="https://github.com/sulfael" target="_blank" rel="noopener noreferrer">Sulfael</a></p>
 
