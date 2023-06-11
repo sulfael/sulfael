@@ -1,12 +1,5 @@
-
-
-
-<div style="display: flex; align-items: center;">
-  <h1 style="flex: 1;"> Hi there! I'm Sulfael. 👋</h1>
-  <img src="https://raw.githubusercontent.com/sulfael/sulfael/main/sulfael.jpeg" alt="👨🏻‍💻" margin-left="100px";" width="150">
-</div>
-
-
+<h1 align="left"> Hi there! I'm Sulfael. 👋</h1>
+ <img src="https://raw.githubusercontent.com/sulfael/sulfael/main/sulfael.jpeg" alt="👨🏻‍💻"  width="150" align="right">
 
 
 <img align="center" alt="GIF" src="https://raw.githubusercontent.com/sulfael/sulfael/main/separador.gif" width="1000" heigth="500"/>
@@ -14,6 +7,8 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 <p><i>Hi, I'm Daniel Cachambe, alias Sulfael, I was born on 19/SEP/1991, I live in the Autonomous City of Buenos Aires, right now I'm learning web development, I'm a beginner in the world of programming, right now I'm working in private security, it's a good job, but I aspire to much more, to dedicate myself to working on my own or to be able to work in a team environment for a company focused on web development, I also have computer skills, I usually repair PCs in terms of software, I am a responsible person who always seeks to do a good job, in this new path that I am taking I hope to be able to work and contribute in this community, as well as I am open to the help that they can provide, I hope in the future to be a complete web developer and to be able to create web pages as well as applications for people, thank you very much for reading.</i></p>
+
+<br>
 
 - 🌱&nbsp; I am currently learning web development.
 - 🤓 &nbsp; I seek to explore new technologies and develop software solutions.
@@ -31,7 +26,8 @@
 - 🌐 &nbsp; HTML | CSS | JavaScript
 - 📷 &nbsp; Picsart
 
-<br width="9">
+<br>
+
 <img align="center" alt="GIF" src="https://raw.githubusercontent.com/sulfael/sulfael/main/separador.gif" width="1000" heigth="500"/>
 <h3> 📊 Stats </h3>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=sulfael&include_all_commits=true&count_private=true&show_icons=true&line_height=25&title_color=042772&icon_color=000&text_color=D3D3D3&bg_color=0,077ab4,014566" alt="sulfael's Github Stats">
@@ -43,7 +39,7 @@
 <img align="center" alt="GIF" src="https://raw.githubusercontent.com/sulfael/sulfael/main/separador.gif" width="1000" heigth="500"/>
 <h3> 🤝🏻 Connect with Me </h3>
 
-<table border="1">
+<table border=".5">
   <tr>
     <td style="text-align: center; vertical-align: middle;"><img src="https://cdn.icon-icons.com/icons2/3658/PNG/96/communication_social_media_linkedin_icon_228412.png" width="30"/></td>
     <td style="vertical-align: middle;">  &nbsp; <a href="https://www.linkedin.com/in/jos%C3%A9-daniel-cachambe-219922211/" target="_blank" rel="noopener noreferrer">Linkedin</a></td>
