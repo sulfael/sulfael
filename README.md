@@ -2,7 +2,7 @@
 <div align="center">
 <img src="https://raw.githubusercontent.com/sulfael/sulfael/main/sulfael.jpeg" alt="👨🏻‍💻" width="150">
 </div>
-<img align="center" alt="GIF" src="https://raw.githubusercontent.com/sulfael/sulfael/main/separador.gif" width="1000" heigth="500"/>
+<img align="center" alt="GIF" src="https://raw.githubusercontent.com/sulfael/sulfael/main/separador.gif" width="1000" height="2"/>
 <h3> 👨🏻‍💻 About Me </h3>
 <p><i>Hi, I'm Daniel Cachambe, alias Sulfael, I was born on 19/SEP/1991, I live in the Autonomous City of Buenos Aires, right now I'm learning web development, I'm a beginner in the world of programming, right now I'm working in private security, it's a good job, but I aspire to much more, to dedicate myself to working on my own or to be able to work in a team environment for a company focused on web development, I also have computer skills, I usually repair PCs in terms of software, I am a responsible person who always seeks to do a good job, in this new path that I am taking I hope to be able to work and contribute in this community, as well as I am open to the help that they can provide, I hope in the future to be a complete web developer and to be able to create web pages as well as applications for people, thank you very much for reading.</i></p>
 
@@ -17,7 +17,7 @@
 - 😻 &nbsp; My favorite animal is cats, nothing better than a good company of them, I adore them too much
 - 🥘 &nbsp; I don't like to cook, but when I do it for someone special I put all the care possible, because it is richer if it is done with love.
 
-<img align="center" alt="GIF" src="https://raw.githubusercontent.com/sulfael/sulfael/main/separador.gif" width="1000" heigth="500"/>
+<img align="center" alt="GIF" src="https://raw.githubusercontent.com/sulfael/sulfael/main/separador.gif" width="1000" height="2"/>
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Office Pack | Glide
@@ -26,7 +26,7 @@
 
 <br>
 
-<img align="center" alt="GIF" src="https://raw.githubusercontent.com/sulfael/sulfael/main/separador.gif" width="1000" heigth="500"/>
+<img align="center" alt="GIF" src="https://raw.githubusercontent.com/sulfael/sulfael/main/separador.gif" width="1000" height="2"/>
 <h3> 📊 Stats </h3>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=sulfael&include_all_commits=true&count_private=true&show_icons=true&line_height=25&title_color=042772&icon_color=000&text_color=D3D3D3&bg_color=0,077ab4,014566" alt="sulfael's Github Stats">
 
@@ -34,7 +34,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sulfael&layout=compact&text_color=daf7dc&bg_color=000)](https://github.com/sulfaelgithub-readme-stats)
 
-<img align="center" alt="GIF" src="https://raw.githubusercontent.com/sulfael/sulfael/main/separador.gif" width="1000" heigth="500"/>
+<img align="center" alt="GIF" src="https://raw.githubusercontent.com/sulfael/sulfael/main/separador.gif" width="1000" height="2"/>
 <h3> 🤝🏻 Connect with Me </h3>
 <table border="2px">
   <tr>
@@ -54,6 +54,6 @@
     <td>  &nbsp; <a href="https://www.facebook.com/sulfael" target="_blank" rel="noopener noreferrer">Facebook</a></td>
   </tr>
 </table>
-<img align="center" alt="GIF" src="https://raw.githubusercontent.com/sulfael/sulfael/main/separador.gif" width="1000" heigth="500"/>
+<img align="center" alt="GIF" src="https://raw.githubusercontent.com/sulfael/sulfael/main/separador.gif" width="1000" height="2"/>
 <p style align="center"> ⭐️ From <a  href="https://github.com/sulfael" target="_blank" rel="noopener noreferrer">Sulfael</a></p>
 
