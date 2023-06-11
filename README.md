@@ -24,6 +24,7 @@
 - 📷 &nbsp; Picsart
 
 <br width="9">
+<h3> 📊 Connect with Me </h3>
 <img align="center" alt="GIF" src="https://raw.githubusercontent.com/sulfael/sulfael/main/separador.gif" width="1000" heigth="500"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=sulfael&include_all_commits=true&count_private=true&show_icons=true&line_height=25&title_color=042772&icon_color=000&text_color=D3D3D3&bg_color=0,077ab4,014566" alt="sulfael's Github Stats">
 
@@ -48,7 +49,7 @@
     <td style="vertical-align: middle;">  &nbsp; <a href="mailto:jose.13.juy@gmail.com" target="_blank" rel="noopener noreferrer">Gmail</a></td>
   </tr>
   <tr>
-    <td style="text-align: center; vertical-align: middle;"><img src="https://cdn.icon-icons.com/icons2/3658/PNG/96/communication_social_media_twitter_icon_228391.png" width="30"/></td>
+    <td style="text-align: center; vertical-align: middle;"><img src="https://cdn.icon-icons.com/icons2/3658/PNG/96/meta_fb_communication_social_media_katana_facebook_icon_228415.png" width="30"/></td>
     <td style="vertical-align: middle;">  &nbsp; <a href="https://www.facebook.com/sulfael" target="_blank" rel="noopener noreferrer">Facebook</a></td>
   </tr>
 </table>
