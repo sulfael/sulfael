@@ -1,13 +1,10 @@
 <h1 align="center"> Hi! I'm Sulfael. 👋</h1>
-
+<div align="center">
+<img src="https://raw.githubusercontent.com/sulfael/sulfael/main/sulfael.jpeg" alt="👨🏻‍💻" width="150">
+</div>
 <img align="center" alt="GIF" src="https://raw.githubusercontent.com/sulfael/sulfael/main/separador.gif" width="1000" height="2"/>
 <h3> 👨🏻‍💻 About Me </h3>
-<table>
-  <tr>
-    <td width="60%><p text-align="justify"><i>Hi, I'm Daniel Cachambe, alias Sulfael, I was born on 19/SEP/1991, I live in the Autonomous City of Buenos Aires, right now I'm learning web development, I'm a beginner in the world of programming, right now I'm working in private security, it's a good job, but I aspire to much more, to dedicate myself to working on my own or to be able to work in a team environment for a company focused on web development, I also have computer skills, I usually repair PCs in terms of software, I am a responsible person who always seeks to do a good job, in this new path that I am taking I hope to be able to work and contribute in this community, as well as I am open to the help that they can provide, I hope in the future to be a complete web developer and to be able to create web pages as well as applications for people, thank you very much for reading.</i></p></td>
-    <td width="40%" align="center"><img src="https://raw.githubusercontent.com/sulfael/sulfael/main/sulfael.jpeg" alt="👨🏻‍💻" width="250"></td>
-  </tr>
-</table>
+<p text-align="justify;"><i>Hi, I'm Daniel Cachambe, alias Sulfael, I was born on 19/SEP/1991, I live in the Autonomous City of Buenos Aires, right now I'm learning web development, I'm a beginner in the world of programming, right now I'm working in private security, it's a good job, but I aspire to much more, to dedicate myself to working on my own or to be able to work in a team environment for a company focused on web development, I also have computer skills, I usually repair PCs in terms of software, I am a responsible person who always seeks to do a good job, in this new path that I am taking I hope to be able to work and contribute in this community, as well as I am open to the help that they can provide, I hope in the future to be a complete web developer and to be able to create web pages as well as applications for people, thank you very much for reading.</i></p>
 
 <br>
 
