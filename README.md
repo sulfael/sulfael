@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there! I'm Sulfael. 👋</h1>
+<h1 align="center"> Hi! I'm Sulfael. 👋</h1>
 <div align="center">
 <img src="https://raw.githubusercontent.com/sulfael/sulfael/main/sulfael.jpeg" alt="👨🏻‍💻" width="150">
 </div>
