@@ -20,7 +20,7 @@
 <img align="center" alt="GIF" src="https://raw.githubusercontent.com/sulfael/sulfael/main/separador.gif" width="1000" height="2"/>
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Office Pack | Glide
+- 💻 &nbsp; Office Pack | Glide.io
 - 🌐 &nbsp; HTML | CSS | JavaScript
 - 📷 &nbsp; Picsart
 
