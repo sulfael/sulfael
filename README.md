@@ -21,7 +21,7 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Office Pack | Glide.io
-- 🌐 &nbsp; HTML | CSS | JavaScript
+- 🌐 &nbsp; HTML5 | CSS3 | JavaScript
 - 📷 &nbsp; Picsart
 
 <br>
