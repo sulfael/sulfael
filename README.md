@@ -56,7 +56,7 @@
   </tr>
   <tr>
     <td><img src="https://cdn.icon-icons.com/icons2/3658/PNG/96/meta_fb_communication_social_media_katana_facebook_icon_228415.png" width="30"/></td>
-    <td style="vertical-align: middle;">  &nbsp; <a href="https://www.facebook.com/sulfael" target="_blank" rel="noopener noreferrer">Facebook</a></td>
+    <td>  &nbsp; <a href="https://www.facebook.com/sulfael" target="_blank" rel="noopener noreferrer">Facebook</a></td>
   </tr>
 </table>
 <img align="center" alt="GIF" src="https://raw.githubusercontent.com/sulfael/sulfael/main/separador.gif" width="1000" heigth="500"/>
