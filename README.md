@@ -38,12 +38,14 @@
 <h3> 🤝🏻 Connect with Me </h3>
 <table align="center">
   <tr>
-    <td><img align="center" src="https://cdn.icon-icons.com/icons2/3658/PNG/96/communication_social_media_linkedin_icon_228412.png" width="30"/> &nbsp; <a href="https://www.linkedin.com/in/jos%C3%A9-daniel-cachambe-219922211/" target="_blank" rel="noopener noreferrer">Linkedin</a></td>
-    <td><img align="center" src="https://cdn.icon-icons.com/icons2/70/PNG/96/outlook_14099.png" width="30"/> &nbsp; <a href="mailto:jose_13_juy@hotmail.com" target="_blank" rel="noopener noreferrer">Outlook</a></td>
-    <td><img align="center" src="https://cdn.icon-icons.com/icons2/3658/PNG/96/communication_letter_email_message_mail_google_icon_228423.png" width="30"/> &nbsp; <a href="mailto:jose.13.juy@gmail.com" target="_blank" rel="noopener noreferrer">Gmail</a></td>
-    <td><img align="center" src="https://cdn.icon-icons.com/icons2/3658/PNG/96/media_social_instagram_icon_228428.png" width="30"/> &nbsp; <a href="https://www.instagram.com/sulfael/" target="_blank" rel="noopener noreferrer">Instagram</a></td>
-    <td><img align="center" src="https://cdn.icon-icons.com/icons2/3658/PNG/96/meta_fb_communication_social_media_katana_facebook_icon_228415.png" width="30"/> &nbsp; <a href="https://www.facebook.com/sulfael" target="_blank" rel="noopener noreferrer">Facebook</a></td>
-    <td><img align="center" src="https://cdn.icon-icons.com/icons2/1476/PNG/96/discord_101785.png" width="30"/> &nbsp; <a href="https://discord.gg/sjxbYmG43w" target="_blank" rel="noopener noreferrer">Discord</a></td>
+    <td><img align="center" src="https://cdn.icon-icons.com/icons2/3658/PNG/96/communication_social_media_linkedin_icon_228412.png" width="25"/> &nbsp; <a href="https://www.linkedin.com/in/jos%C3%A9-daniel-cachambe-219922211/" target="_blank" rel="noopener noreferrer">Linkedin</a></td>
+    <td><img align="center" src="https://cdn.icon-icons.com/icons2/70/PNG/96/outlook_14099.png" width="25"/> &nbsp; <a href="mailto:jose_13_juy@hotmail.com" target="_blank" rel="noopener noreferrer">Outlook</a></td>
+    <td><img align="center" src="https://cdn.icon-icons.com/icons2/3658/PNG/96/communication_letter_email_message_mail_google_icon_228423.png" width="25"/> &nbsp; <a href="mailto:jose.13.juy@gmail.com" target="_blank" rel="noopener noreferrer">Gmail</a></td>
+  </tr>
+  <tr>
+    <td><img align="center" src="https://cdn.icon-icons.com/icons2/3658/PNG/96/media_social_instagram_icon_228428.png" width="25"/> &nbsp; <a href="https://www.instagram.com/sulfael/" target="_blank" rel="noopener noreferrer">Instagram</a></td>
+    <td><img align="center" src="https://cdn.icon-icons.com/icons2/3658/PNG/96/meta_fb_communication_social_media_katana_facebook_icon_228415.png" width="25"/> &nbsp; <a href="https://www.facebook.com/sulfael" target="_blank" rel="noopener noreferrer">Facebook</a></td>
+    <td><img align="center" src="https://cdn.icon-icons.com/icons2/1476/PNG/96/discord_101785.png" width="25"/> &nbsp; <a href="https://discord.gg/sjxbYmG43w" target="_blank" rel="noopener noreferrer">Discord</a></td>
   </tr>
 </table>
 <img align="center" alt="GIF" src="https://raw.githubusercontent.com/sulfael/sulfael/main/separador.gif" width="1000" height="2"/>
