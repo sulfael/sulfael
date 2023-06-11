@@ -43,7 +43,7 @@
 
 <table border=".5">
   <tr>
-    <td><img src="https://cdn.icon-icons.com/icons2/3658/PNG/96/communication_social_media_linkedin_icon_228412.png" width="30"/></td>
+    <td><a href="https://www.linkedin.com/in/jos%C3%A9-daniel-cachambe-219922211/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.icon-icons.com/icons2/3658/PNG/96/communication_social_media_linkedin_icon_228412.png" width="30"/></td>
     <td>  &nbsp; <a href="https://www.linkedin.com/in/jos%C3%A9-daniel-cachambe-219922211/" target="_blank" rel="noopener noreferrer">Linkedin</a></td>
   </tr>
   <tr>
