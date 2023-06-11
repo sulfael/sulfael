@@ -1,5 +1,8 @@
-<h1 align="left"> Hi there! I'm Sulfael. 👋</h1>
- <img src="https://raw.githubusercontent.com/sulfael/sulfael/main/sulfael.jpeg" alt="👨🏻‍💻"  width="150" align="right">
+
+<p style="display: flex; justify-content: space-between;">
+  <span style="margin-right: auto;"> Hi there! I'm Sulfael. 👋</span>
+</p>
+<img src="https://raw.githubusercontent.com/sulfael/sulfael/main/sulfael.jpeg" alt="👨🏻‍💻"  width="150" style="margin-left: auto;">
 
 
 <img align="center" alt="GIF" src="https://raw.githubusercontent.com/sulfael/sulfael/main/separador.gif" width="1000" heigth="500"/>
