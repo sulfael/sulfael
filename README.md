@@ -1,4 +1,4 @@
-<h1> Hi there! I'm Sulfael. 👋</h1>
+<h1 align="center"> Hi there! I'm Sulfael. 👋</h1>
 <img src="https://raw.githubusercontent.com/sulfael/sulfael/main/sulfael.jpeg" alt="👨🏻‍💻" width="150">
 <img align="center" alt="GIF" src="https://raw.githubusercontent.com/sulfael/sulfael/main/separador.gif" width="1000" heigth="500"/>
 <h3> 👨🏻‍💻 About Me </h3>
