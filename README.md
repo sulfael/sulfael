@@ -1,6 +1,14 @@
-### Hi there 👋
 
-<h1> Hello! I'm Sulfael. 👨🏻‍💻<img src="" width="25"></h1>
+
+
+<div style="display: flex; align-items: center;">
+  <h1 style="flex: 1;"> Hi there! I'm Sulfael. 👋</h1>
+  <img src="https://raw.githubusercontent.com/sulfael/sulfael/main/sulfael.jpeg" alt="👨🏻‍💻" margin-left="100px";" width="150">
+</div>
+
+
+
+
 <img align="center" alt="GIF" src="https://raw.githubusercontent.com/sulfael/sulfael/main/separador.gif" width="1000" heigth="500"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
