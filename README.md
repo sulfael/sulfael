@@ -11,7 +11,7 @@
 - 🌱&nbsp; I am currently learning web development.
 - 🤓 &nbsp; I seek to explore new technologies and develop software solutions.
 - 🎓 &nbsp; I have computer skills, Office package, I like to fix PC in terms of software.
-- 😄 Pronouns: He/Him.
+- 😄 &nbsp; Pronouns: He/Him.
 - 💼 &nbsp; I work in private security, but in the future I hope to be a web developer.
 - 🤗 &nbsp; Watch anime or series, go for a walk, play mobile games and go to the movies as hobbies/secondary activities.
 - 😻 &nbsp; My favorite animal is cats, nothing better than a good company of them, I adore them too much.
